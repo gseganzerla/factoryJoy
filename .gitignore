@@ -1,0 +1,6 @@
+# editor metadata
+.devcontainer/
+.idea/
+
+# build
+target/
